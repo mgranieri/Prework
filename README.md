@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didn't have any problem building the app. However, I had a problem when I accidentally moved some files from one folder to another one. Thankfully it got resolved with some help.
 
 ## License
 
